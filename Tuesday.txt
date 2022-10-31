@@ -1,4 +1,2 @@
 Afternoon
 Day
-great tool
-got git
